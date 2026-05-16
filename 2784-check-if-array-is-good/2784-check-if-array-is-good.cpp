@@ -2,20 +2,20 @@ class Solution {
 public:
     bool isGood(vector<int>& nums) {
         int n=nums.size();
-        unordered_map<int,int>m;
-        for(int val:nums)
+        int maxEl=n-1;
+        int c=0;
+        for(int num:nums)
         {
-            m[val]++;
-        }
-        for(int i=1;i<n-1;i++)
-        {
-            if(m.find(i)!=m.end())
+            int val=abs(num);
+            if(val>maxEl) return false;
+            else if(val==maxEl) c++;
+            if(nums[val]<0)
             {
-                if(m[i]!=1) return false;
+                if(val!=maxEl) return false;
+                else if(c>2) return false;
             }
-            else return false;
+            else nums[val]*=-1;
         }
-        if(m[n-1]!=2) return false;
         return true;
     }
 };
