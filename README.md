@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3931-check-adjacent-digit-differences](https://github.com/Saksham842/Solved-Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Trie
 |  |
 | ------- |
