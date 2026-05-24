@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saksham842/Solved-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/Saksham842/Solved-Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Saksham842/Solved-Leetcode/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saksham842/Solved-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/Saksham842/Solved-Leetcode/tree/master/2540-minimum-common-value) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0015-3sum) |
+| [1340-jump-game-v](https://github.com/Saksham842/Solved-Leetcode/tree/master/1340-jump-game-v) |
 | [2784-check-if-array-is-good](https://github.com/Saksham842/Solved-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1340-jump-game-v](https://github.com/Saksham842/Solved-Leetcode/tree/master/1340-jump-game-v) |
 <!---LeetCode Topics End-->
