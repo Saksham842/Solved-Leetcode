@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Saksham842/Solved-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Saksham842/Solved-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1871-jump-game-vii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3931-check-adjacent-digit-differences](https://github.com/Saksham842/Solved-Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Trie
 |  |
