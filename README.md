@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Saksham842/Solved-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saksham842/Solved-Leetcode/tree/master/0069-sqrtx) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
