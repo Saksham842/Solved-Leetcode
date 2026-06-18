@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saksham842/Solved-Leetcode/tree/master/0069-sqrtx) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Saksham842/Solved-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
