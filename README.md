@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saksham842/Solved-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -191,12 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saksham842/Solved-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Saksham842/Solved-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saksham842/Solved-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Saksham842/Solved-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Heap (Priority Queue)
 |  |
