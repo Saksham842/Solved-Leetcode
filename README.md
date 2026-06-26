@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saksham842/Solved-Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Saksham842/Solved-Leetcode/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Saksham842/Solved-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Saksham842/Solved-Leetcode/tree/master/1840-maximum-building-height) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saksham842/Solved-Leetcode/tree/master/0002-add-two-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saksham842/Solved-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saksham842/Solved-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Saksham842/Solved-Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
