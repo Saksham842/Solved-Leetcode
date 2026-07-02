@@ -7,11 +7,8 @@ public:
         int n = grid[0].size();
 
         vector<vector<int>> result(m, vector<int>(n, INT_MAX));
-        // result[i][j] = min number of unsafe cells crossed to reach [i][j] from [0][0]
-
         deque<pair<int, int>> deq;
-
-        result[0][0] = grid[0][0]; // source is [0][0]
+        result[0][0] = grid[0][0]; 
         deq.push_front({0, 0});
 
         while (!deq.empty()) {
@@ -21,7 +18,6 @@ public:
             for (auto &dir : directions) {
                 int nr = r + dir[0];
                 int nc = c + dir[1];
-
                 if (nr < 0 || nr >= m || nc < 0 || nc >= n) continue;
 
                 if (grid[nr][nc] == 0) {
@@ -37,7 +33,6 @@ public:
                 }
             }
         }
-
         return health - result[m - 1][n - 1] > 0;
     }
 };
