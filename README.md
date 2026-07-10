@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Saksham842/Solved-Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saksham842/Solved-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Saksham842/Solved-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Saksham842/Solved-Leetcode/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saksham842/Solved-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saksham842/Solved-Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Saksham842/Solved-Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Saksham842/Solved-Leetcode/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Saksham842/Solved-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Saksham842/Solved-Leetcode/tree/master/1840-maximum-building-height) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Saksham842/Solved-Leetcode/tree/master/0048-rotate-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/Saksham842/Solved-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saksham842/Solved-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
