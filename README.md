@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saksham842/Solved-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1048-longest-string-chain](https://github.com/Saksham842/Solved-Leetcode/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Saksham842/Solved-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Saksham842/Solved-Leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saksham842/Solved-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Saksham842/Solved-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saksham842/Solved-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Saksham842/Solved-Leetcode/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Saksham842/Solved-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Saksham842/Solved-Leetcode/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saksham842/Solved-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Saksham842/Solved-Leetcode/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Saksham842/Solved-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saksham842/Solved-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1048-longest-string-chain](https://github.com/Saksham842/Solved-Leetcode/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Saksham842/Solved-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saksham842/Solved-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1871-jump-game-vii) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saksham842/Solved-Leetcode/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saksham842/Solved-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -362,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
