@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Saksham842/Solved-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Saksham842/Solved-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Saksham842/Solved-Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Saksham842/Solved-Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saksham842/Solved-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Saksham842/Solved-Leetcode/tree/master/1048-longest-string-chain) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saksham842/Solved-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/Saksham842/Solved-Leetcode/tree/master/0125-valid-palindrome) |
 | [1048-longest-string-chain](https://github.com/Saksham842/Solved-Leetcode/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Saksham842/Solved-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
