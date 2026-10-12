@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saksham842/Solved-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Saksham842/Solved-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Saksham842/Solved-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saksham842/Solved-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3161-block-placement-queries) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Saksham842/Solved-Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Saksham842/Solved-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Saksham842/Solved-Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saksham842/Solved-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Saksham842/Solved-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saksham842/Solved-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Saksham842/Solved-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saksham842/Solved-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Saksham842/Solved-Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saksham842/Solved-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
