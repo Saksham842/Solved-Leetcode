@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saksham842/Solved-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Saksham842/Solved-Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Saksham842/Solved-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saksham842/Solved-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saksham842/Solved-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saksham842/Solved-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
