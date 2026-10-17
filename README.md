@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saksham842/Solved-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Saksham842/Solved-Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saksham842/Solved-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/Saksham842/Solved-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Saksham842/Solved-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saksham842/Solved-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
