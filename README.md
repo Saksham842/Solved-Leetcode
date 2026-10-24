@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Saksham842/Solved-Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Saksham842/Solved-Leetcode/tree/master/1345-jump-game-iv) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saksham842/Solved-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Saksham842/Solved-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saksham842/Solved-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saksham842/Solved-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saksham842/Solved-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saksham842/Solved-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saksham842/Solved-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saksham842/Solved-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saksham842/Solved-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saksham842/Solved-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saksham842/Solved-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Saksham842/Solved-Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -528,12 +531,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saksham842/Solved-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saksham842/Solved-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saksham842/Solved-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
