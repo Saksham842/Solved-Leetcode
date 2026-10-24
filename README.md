@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3161-block-placement-queries) |
@@ -553,12 +554,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## String Matching
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Hash Function
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 <!---LeetCode Topics End-->
