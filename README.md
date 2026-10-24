@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Saksham842/Solved-Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Saksham842/Solved-Leetcode/tree/master/1345-jump-game-iv) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saksham842/Solved-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham842/Solved-Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Saksham842/Solved-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saksham842/Solved-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saksham842/Solved-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Saksham842/Solved-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Saksham842/Solved-Leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saksham842/Solved-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham842/Solved-Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saksham842/Solved-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saksham842/Solved-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Saksham842/Solved-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Saksham842/Solved-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham842/Solved-Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saksham842/Solved-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
