@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saksham842/Solved-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3161-block-placement-queries) |
@@ -548,4 +549,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saksham842/Solved-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Rolling Hash
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## String Matching
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## Hash Function
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
