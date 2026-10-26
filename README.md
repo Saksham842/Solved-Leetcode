@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Saksham842/Solved-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Saksham842/Solved-Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Saksham842/Solved-Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Saksham842/Solved-Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saksham842/Solved-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Saksham842/Solved-Leetcode/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/Saksham842/Solved-Leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saksham842/Solved-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Saksham842/Solved-Leetcode/tree/master/0547-number-of-provinces) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/Saksham842/Solved-Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Saksham842/Solved-Leetcode/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Saksham842/Solved-Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Saksham842/Solved-Leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Saksham842/Solved-Leetcode/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/Saksham842/Solved-Leetcode/tree/master/0542-01-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Saksham842/Solved-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/Saksham842/Solved-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Saksham842/Solved-Leetcode/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
