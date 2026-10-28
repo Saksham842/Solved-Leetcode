@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saksham842/Solved-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Saksham842/Solved-Leetcode/tree/master/0127-word-ladder) |
 | [1048-longest-string-chain](https://github.com/Saksham842/Solved-Leetcode/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Saksham842/Solved-Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Saksham842/Solved-Leetcode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Saksham842/Solved-Leetcode/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Saksham842/Solved-Leetcode/tree/master/0322-coin-change) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Saksham842/Solved-Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Saksham842/Solved-Leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Saksham842/Solved-Leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Saksham842/Solved-Leetcode/tree/master/0179-largest-number) |
 | [0301-remove-invalid-parentheses](https://github.com/Saksham842/Solved-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Saksham842/Solved-Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -606,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Saksham842/Solved-Leetcode/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Saksham842/Solved-Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
