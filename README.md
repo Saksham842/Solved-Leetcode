@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Saksham842/Solved-Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saksham842/Solved-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Saksham842/Solved-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Saksham842/Solved-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Saksham842/Solved-Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saksham842/Solved-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Saksham842/Solved-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Saksham842/Solved-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Saksham842/Solved-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saksham842/Solved-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saksham842/Solved-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Saksham842/Solved-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Saksham842/Solved-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
