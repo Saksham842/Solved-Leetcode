@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Saksham842/Solved-Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Saksham842/Solved-Leetcode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saksham842/Solved-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0875-koko-eating-bananas](https://github.com/Saksham842/Solved-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saksham842/Solved-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Saksham842/Solved-Leetcode/tree/master/1048-longest-string-chain) |
 | [1254-number-of-closed-islands](https://github.com/Saksham842/Solved-Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saksham842/Solved-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0875-koko-eating-bananas](https://github.com/Saksham842/Solved-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saksham842/Solved-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saksham842/Solved-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saksham842/Solved-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
