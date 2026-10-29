@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saksham842/Solved-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Saksham842/Solved-Leetcode/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/Saksham842/Solved-Leetcode/tree/master/0146-lru-cache) |
 | [1048-longest-string-chain](https://github.com/Saksham842/Solved-Leetcode/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Saksham842/Solved-Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saksham842/Solved-Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saksham842/Solved-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/Saksham842/Solved-Leetcode/tree/master/0146-lru-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saksham842/Solved-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saksham842/Solved-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -641,4 +643,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Saksham842/Solved-Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Saksham842/Solved-Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
