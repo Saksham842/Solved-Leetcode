@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saksham842/Solved-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saksham842/Solved-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Saksham842/Solved-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Saksham842/Solved-Leetcode/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Saksham842/Solved-Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Saksham842/Solved-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saksham842/Solved-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
