@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Saksham842/Solved-Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/Saksham842/Solved-Leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Saksham842/Solved-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Saksham842/Solved-Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saksham842/Solved-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Saksham842/Solved-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Saksham842/Solved-Leetcode/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Saksham842/Solved-Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Saksham842/Solved-Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Saksham842/Solved-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Saksham842/Solved-Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Saksham842/Solved-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1871-jump-game-vii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1871-jump-game-vii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saksham842/Solved-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Saksham842/Solved-Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Saksham842/Solved-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Saksham842/Solved-Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Saksham842/Solved-Leetcode/tree/master/3524-find-x-value-of-array-i) |
