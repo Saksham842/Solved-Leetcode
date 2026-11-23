@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Saksham842/Solved-Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Saksham842/Solved-Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Saksham842/Solved-Leetcode/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saksham842/Solved-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Saksham842/Solved-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saksham842/Solved-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham842/Solved-Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saksham842/Solved-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Saksham842/Solved-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Saksham842/Solved-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saksham842/Solved-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Saksham842/Solved-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Saksham842/Solved-Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Saksham842/Solved-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saksham842/Solved-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Saksham842/Solved-Leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saksham842/Solved-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saksham842/Solved-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Saksham842/Solved-Leetcode/tree/master/0146-lru-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saksham842/Solved-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -777,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham842/Solved-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saksham842/Solved-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
